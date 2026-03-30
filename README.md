@@ -1,6 +1,6 @@
 # Kazakh Missing Word Challenge — WISH Women in STEM Hackathon 2026
 
-## 🏆 Result: Top 20 out of 32 teams | Accuracy: 53%
+## 🏆 Result: Top 20| Accuracy: 53%
 
 ## Overview
 NLP competition to predict the position of a missing word in Kazakh sentences.
