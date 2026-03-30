@@ -41,7 +41,7 @@ https://www.kaggle.com/competitions/kazakh-missing-words-challenge-for-wish
 
 3. Run the notebook:
 ```
-notebook_Merey.ipynb
+notebook_Merey (3).ipynb
 ```
 
 Training time: ~3 hours on GPU Tesla T4
@@ -54,7 +54,7 @@ Training time: ~3 hours on GPU Tesla T4
 
 ## Files
 ```
-├── notebook_Merey.ipynb      # Main training notebook
+├── notebook_Merey (3).ipynb      # Main training notebook
 ├── presentation.pptx         # Project presentation
 └── README.md
 ```
